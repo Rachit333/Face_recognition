@@ -11,7 +11,7 @@ THIS IS AN EXTENSION TO MY PERSONAL PROJECT CALLED P.A.V
 > 
 > Connect both devices on same network, and start the server in the app on android phone.
 
-## If you wish to use webcam, remove the following code snippet from **main.py** and uncomment the code at line
+## If you wish to use webcam, remove the following code snippet from **main.py** 
 
 - Line 8 - 17
 ```sh
